@@ -1,6 +1,6 @@
 # AluraBooks
 
-![Apresentação do projeto](/HTML/public/landing.png)
+![Apresentação do projeto](/html/public/landing.png)
 
 ## Indice
 
