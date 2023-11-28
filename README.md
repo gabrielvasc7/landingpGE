@@ -1,6 +1,6 @@
 # LANDINGPAGE
 
-![Apresentação do projeto](html/public/landing.png)
+![Apresentação do projeto](../html/public/landing.png)
 
 ## Indice
 
